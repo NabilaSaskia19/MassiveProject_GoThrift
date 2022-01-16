@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/detailpesanan.xml" value="0.1" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/detailtoko.xml" value="0.25" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/dikemas.xml" value="0.22" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/dikirim.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/diterima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/homewanita.xml" value="0.22" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/listtoko.xml" value="0.25" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/ongkoskirim.xml" value="0.25" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/ongkoskirimpenjual.xml" value="0.22" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/penjualansaya.xml" value="0.1" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/tambahprodukpenjual.xml" value="0.22" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/tampilan_produk.xml" value="0.22" />
+        <entry key="..\:/Users/Nabila Saskia/GoThrift/app/src/main/res/layout/tokosayapenjual.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
